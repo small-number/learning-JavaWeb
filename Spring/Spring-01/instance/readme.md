@@ -1,5 +1,5 @@
 ---
-title:Spring学习
-tag:Spring SpringIOC
+title: Spring学习
+tags: Spring SpringIOC
 ---
 
